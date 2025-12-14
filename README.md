@@ -26,4 +26,4 @@ We use the following software packages:
 
 All our attacks are tested in Windows 10 with 12 GB GPU memory (Titan V GPU).
 # Contact
-For questions or concerns please contact the author at: kaleel.mahmood@uconn.edu
+For questions or concerns please contact the author at: kaleel.mahmood@uri.edu
